@@ -1,4 +1,6 @@
-language: node_js
+arch:
+    - amd64
+    - ppc64le
 language: node_js
 node_js:
   - '0.8'
